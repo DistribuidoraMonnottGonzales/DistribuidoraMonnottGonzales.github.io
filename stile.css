@@ -370,7 +370,7 @@ p {
         display: initial;
     }
 
-    .header {
+   .header {
     min-height: 0vh;
    }
 
@@ -387,6 +387,7 @@ p {
     padding: 0;
    }
 
+ 
     .coffee {
         padding: 0;
     }
