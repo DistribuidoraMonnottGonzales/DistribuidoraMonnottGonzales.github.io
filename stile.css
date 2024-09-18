@@ -371,16 +371,21 @@ p {
     }
 
     .header {
-        min-height: 0vh;
-    }
+    min-height: 0vh;
+   }
 
-    .header-content {
-        padding: 100px 30px;
-    }
+   .header-content {
+    padding: 0px 00px;
+   }
 
-    .header-content p {
-        padding: 0;
-    }
+   .header h1 {
+    padding: 0;
+   }
+
+
+   .header p {
+    padding: 0;
+   }
 
     .coffee {
         padding: 0;
